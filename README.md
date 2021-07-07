@@ -1,5 +1,8 @@
 # hamilton-z3
 
+Given a graph, using Z3, this program states whether there exists a
+Hamiltonian graph in it.
+
 ## Install
 
 Using [pipenv](https://docs.pipenv.org/), simply run `pipenv install`. This will
